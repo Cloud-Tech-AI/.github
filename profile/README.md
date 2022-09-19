@@ -13,9 +13,13 @@ We have decided to start cloud tech github community to help members in contribu
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 👋 Follow us on Linkedin: https://www.linkedin.com/company/cloud-techs
+
 👋 Follow us on Twitter: https://twitter.com/AboutCloudTech for latest news 
+
 💻 Take a Look at our Github Repos: https://github.com/Cloud-Tech-Projects to know more about our projects 
+
 ✍️ Our Website: https://cloudtech.hashnode.dev
+
 📧 Our Newsletter: https://cloudtech.hashnode.dev
 
 🌈 Contribution guidelines: - how can the community get involved?
