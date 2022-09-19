@@ -2,8 +2,6 @@
 
 ### Everything about Cloud & Tech
 
-<!--
-
 🙋‍♀️ A short introduction - what is your organization all about?
 
 At **CloudTech**, Our Goal is Built a community of self reliant Cloud Architects, Builders and Developers who are eager to help people get started with cloud along with building and developing applications which impact people around us.
@@ -27,4 +25,3 @@ And at last but not least enjoy our repositories! If you'll find a bug or will h
 
 🧙 For Business Enquiries: thecloudtechforall@gmail.com 
 
--->
