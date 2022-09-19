@@ -16,7 +16,7 @@ Resources are added frequently! ⚡
 
 --- 
 
-# Open - Source Contribution
+🌈 ### Contribution guidelines: - how can the community get involved?
 
 * If you want to contribute, This repository is in build. Feel free to do.
 * Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
@@ -25,9 +25,11 @@ If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](https://github.com/Cloud-Tech-Projects/contributors-guide/blob/main/CONTRIBUTING.md) before submitting new Resources.
 
+Happy Building !!
+
 --- 
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 ### Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 👋 Follow us on Linkedin: https://www.linkedin.com/company/cloud-techs
 
@@ -43,11 +45,4 @@ Please read [`contributing guidelines`](https://github.com/Cloud-Tech-Projects/c
 
 --- 
 
-🌈 Contribution guidelines: - how can the community get involved?
-
-And at last but not least enjoy our repositories! If you'll find a bug or will have a suggestion, then feel free to contribute by either submitting a pull request or opening an issue in the corresponding repository.
-
-Happy Building !!
-
---- 
 
