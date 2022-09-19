@@ -8,7 +8,24 @@ At **CloudTech**, Our Goal is Built a community of self reliant Cloud Architects
 
 We share latest news and articles related to Different Cloud Providers like AWS , Azure , GCP etc and much more.
 
-We have decided to start cloud tech github community to help members in contributing to the community. Every member has a story to tell and by starting this projects, we aim to encourage each member to share their story/projects and help inspire the next generation of cloud professionals and enthusiasts.
+* This repositories are complete Open-Source made for the community by the community.
+* Goal is to inspire members to work together on projects and develop the future generation of cloud professionals and enthusiasts.
+* Anyone wants to contribute, Feel free to submit Pull requests.
+
+Resources are added frequently! ⚡
+
+--- 
+
+# Open - Source Contribution
+
+* If you want to contribute, This repository is in build. Feel free to do.
+* Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
+
+If you like this repo, be sure to ⭐ it.
+
+Please read [`contributing guidelines`](https://github.com/Cloud-Tech-Projects/contributors-guide/blob/main/CONTRIBUTING.md) before submitting new Resources.
+
+--- 
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
@@ -22,10 +39,15 @@ We have decided to start cloud tech github community to help members in contribu
 
 📧 Our Newsletter: https://cloudtech.hashnode.dev
 
+🧙 For Business Enquiries: thecloudtechforall@gmail.com 
+
+--- 
+
 🌈 Contribution guidelines: - how can the community get involved?
 
 And at last but not least enjoy our repositories! If you'll find a bug or will have a suggestion, then feel free to contribute by either submitting a pull request or opening an issue in the corresponding repository.
 
+Happy Building !!
 
-🧙 For Business Enquiries: thecloudtechforall@gmail.com 
+--- 
 
